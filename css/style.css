@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://c.stocksy.com/a/4WO900/z9/2239196.jpg);
+}
+
+h1{
+    font-size:xx-large;
+    font-style:oblique ;
+    background-color: rgb(250, 250, 86);
+    padding-left: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p{
+    font-size: 20px;
+}
+img{
+    padding-left: 430px;
+}
+
+li{
+    font-size: 20px;
+}
